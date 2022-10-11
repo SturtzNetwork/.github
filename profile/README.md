@@ -5,8 +5,8 @@ _Sturtz Network_
 ================
 
 _Originzing the Worlds Infomation, Privately_
-
-
+<details>
+<summary>Click to expand!</summary>
 -------------------------------------------------
 
 ### Our Search Engine
@@ -38,6 +38,7 @@ Hi, I am dexter, My job is to help with server management and basic support. I h
 
 #### [Darth Kilroy](https://darthkilroy.cf) (@DarthKilroy)
 
+
 Hi, I go by Kilroy online, I own and run this server, I also do all the backend work and I wrote this search engine, and maintain the servers. I also help out with a few Open Source and Self Hosting Projects Including; IRCNOW (freeirc), Tidle.green
 
 ### Special Thanks To:
@@ -49,7 +50,7 @@ Hi, I go by Kilroy online, I own and run this server, I also do all the backend 
 ComputerTech has, ever so kindly, donated our new domain, he has also provided server space to help offload the load on my home network
 
 You can join him on his irc network [irc.technet.chat](https://netsplit.de/networks/TechNet/)
-
+</details>
 [Privacy Policy](https://sturtz.io/about/privacy.html) | [Home](https://sturtz.io/) |
 
 Privacy is protected by the UN Declaration of Human Rights
