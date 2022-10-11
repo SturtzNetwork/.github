@@ -51,6 +51,7 @@ ComputerTech has, ever so kindly, donated our new domain, he has also provided s
 
 You can join him on his irc network [irc.technet.chat](https://netsplit.de/networks/TechNet/)
 </details>
-[Privacy Policy](https://sturtz.io/about/privacy.html) | [Home](https://sturtz.io/) |
+
+[Privacy Policy](https://sturtz.io/about/privacy.html) 
 
 Privacy is protected by the UN Declaration of Human Rights
